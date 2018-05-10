@@ -44,3 +44,10 @@ To commit changes, either use the built-in Git interface in VSCode or use Github
 1. Click the + next to any change you want to include in your commit
 1. Enter a commit message describing the changes you made
 1. Click the checkmark
+1. Click the ... -> Push in order to actually upload the commits to Github, otherwise your commits will just stay on your local machine
+
+### Git in Github Desktop
+
+1. Enter a commit message
+1. Click "Commit to master"
+1. Click "Push origin"
