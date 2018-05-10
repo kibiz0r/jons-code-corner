@@ -6,7 +6,7 @@
 
 1. Make a Github account
 1. Fork this repository
-1. [Install Github for Windows](https://desktop.github.com/)
+1. [Install Github Desktop](https://desktop.github.com/)
 1. File -> Clone repository and select your jons-code-corner repo
 
 ### MinGW
@@ -36,3 +36,11 @@ You should see output in the Debug Console (View -> Debug Console if it's not vi
 ## Modifying
 
 Pretty much everything comes down to `tasks.json` and `launch.json`. VSCode has good documentation on both. You'll also need to know how to invoke `g++` in general. Right now, it's just compiling everything in one go with no intermediate object files, using `g++` directly. In the future, maybe we'll switch to use `make`.
+
+To commit changes, either use the built-in Git interface in VSCode or use Github Desktop.
+
+### Git in VSCode
+
+1. Click the + next to any change you want to include in your commit
+1. Enter a commit message describing the changes you made
+1. Click the checkmark
