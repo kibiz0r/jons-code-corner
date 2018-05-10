@@ -1,8 +1,9 @@
 #include <iostream>
+#include "boop.h"
 
 using namespace std;
 
 int main() {
-    cout << "hello world" << endl;
+    boop();
     return 0;
 }

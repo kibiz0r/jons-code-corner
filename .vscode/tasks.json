@@ -7,7 +7,7 @@
             "command": "g++",
             "args": [
                 "-g",
-                "hello_world.cpp",
+                "*.cpp",
                 "-o",
                 "hello_world.exe"
             ],
